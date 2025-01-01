@@ -3,4 +3,4 @@
 # NMOS logic.asc is an LTspice schematic showing how I created logical AND, OR, and XOR out of N channel MOSFET
 # MOSFET Testing.asc is an LTspice schematic showing the full working design of the multiplier
 # MOSFET_Multilpier_Testing.ino is an Arduino code that I will use to do full scale testing on the fully built breadboard version of my schematics
-# No full scale testing has been done yet only because I do not have the parts to do the project and am waiting until around 12/25/2024. After which I should be uploading full scale testing of this project.
+# Logic gates and stage 1 testing has been uploaded, more stages coming soon
